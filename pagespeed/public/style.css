@@ -1,0 +1,48 @@
+#title{
+	text-align: center;
+	font-weight: 500;
+	font-size: 35px;
+}
+
+#subtitle{
+	text-align: center;
+	font-weight: 300;
+	font-size: 25px;
+}
+
+#website_input{
+	text-align: center;
+	margin-top: 100px;
+}
+
+#website_url{
+	width: auto;
+	margin-right: 15px;
+}
+
+#loading{
+	margin-top: 30px;
+	height: 48px;
+	width: 48px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#error{
+	text-align: center;
+	font-weight: 300;
+	font-size: 25px;
+	color: #D84315;
+}
+
+#result{
+	margin-top: 20px;
+	text-align: center;
+}
+
+footer{
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
